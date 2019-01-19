@@ -1,0 +1,33 @@
+PODS:
+  - LazyScroll (0.0.2)
+  - MJExtension (3.0.13)
+  - PureLayout (3.0.2)
+  - ReactiveObjC (3.0.0)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - Tangram (1.0.3):
+    - LazyScroll (~> 0.0.2)
+    - SDWebImage (~> 3.7)
+
+DEPENDENCIES:
+  - MJExtension
+  - PureLayout
+  - ReactiveObjC (~> 3.0.0)
+  - SDCycleScrollView
+  - Tangram
+
+SPEC CHECKSUMS:
+  LazyScroll: 614022689b8e3b93c7bbe268c1a47b76e4265941
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  ReactiveObjC: ce79989e8684b9086b5f8d0c74bc7b81a8729c9e
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  Tangram: 3bae7b9dc29816221e2a27f76ca86b8afa95564b
+
+PODFILE CHECKSUM: 487be6f60aeb1344d2d1b58a46d6cfdd9abe1c96
+
+COCOAPODS: 1.2.1
